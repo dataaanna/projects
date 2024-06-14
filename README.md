@@ -4,7 +4,7 @@ Welcome to my data science portfolio. This repository contains several projects 
 
 ## Projects
 
-### 1. Bitcoin Analysis](bitcoin_analysis.ipynb)
+### 1. Bitcoin Analysis](./bitcoin_analysis.ipynb)
 A comprehensive analysis of Toncoin, focusing on market trends, price fluctuations, and predictive modeling. Includes data cleaning, exploratory data analysis (EDA), and machine learning techniques.
 
 ### 2. [IMDb Analysis](./imbd%20.ipynb)
