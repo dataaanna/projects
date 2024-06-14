@@ -10,7 +10,7 @@ A comprehensive analysis of Toncoin, focusing on market trends, price fluctuatio
 ### 2. [IMDb Analysis](./imbd%20.ipynb)
 An in-depth analysis of IMDb's top movies, exploring ratings, genres, and release years. The project features visualizations highlighting key patterns and insights.
 
-### 3. [Sustainable_Fashion_Analysis] .ipynb)
+### 3. [Sustainable_Fashion_Analysis](./Sustainable_Fashion_Analysis .ipynb)
 An analysis of the Fashion Transparency Index 2023 dataset, exploring sustainability in the fashion industry and identifying key factors contributing to brand success.
 
 ### 4. [YouTube Top 10 Analysis](./youtube_top10analysis_final.ipynb)
