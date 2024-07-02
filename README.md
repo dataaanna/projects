@@ -22,7 +22,7 @@ An analysis of the top 10 YouTube channels, examining content, viewership, and e
 
 ## Coursework
 
-### Completed Courses
+### Completed Courses UCLA 
 - Fundamentals of Software Development & Programming
 - Website Development with Adobe Software
 - Introduction to SQL
